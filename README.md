@@ -1,1 +1,3 @@
-# -volumetric-technical-vision
+Условия работы: две камеры и любая подключённая arduino
+
+версии ключевых библиотек: mediapipe(0.10.9), opencv-python(4.9.0.80)
